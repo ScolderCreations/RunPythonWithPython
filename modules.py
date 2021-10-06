@@ -10,4 +10,5 @@ import json
 import statistics
 import platform
 import requests
+import charset-normalizer
 print("files imported!")
